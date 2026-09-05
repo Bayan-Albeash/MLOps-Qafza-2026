@@ -1,0 +1,12 @@
+# Task 02 - generated data files
+Tasks/Task-02/artifacts/ml_table.csv
+Tasks/Task-02/artifacts/labeled_table.csv
+Tasks/Task-02/artifacts/train.csv
+Tasks/Task-02/artifacts/validation.csv
+Tasks/Task-02/artifacts/test.csv
+Tasks/Task-02/artifacts/X_train_processed.npy
+Tasks/Task-02/artifacts/X_val_processed.npy
+Tasks/Task-02/artifacts/X_test_processed.npy
+Tasks/Task-02/artifacts/y_train.csv
+Tasks/Task-02/artifacts/y_val.csv
+Tasks/Task-02/artifacts/y_test.csv
