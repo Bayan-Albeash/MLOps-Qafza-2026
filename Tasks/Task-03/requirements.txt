@@ -1,0 +1,6 @@
+fastapi==0.141.1
+uvicorn==0.41.0
+pandas
+scikit-learn
+joblib
+PyYAML

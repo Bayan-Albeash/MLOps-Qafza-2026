@@ -10,3 +10,7 @@ Tasks/Task-02/artifacts/X_test_processed.npy
 Tasks/Task-02/artifacts/y_train.csv
 Tasks/Task-02/artifacts/y_val.csv
 Tasks/Task-02/artifacts/y_test.csv
+__pycache__/
+*.pyc
+.pytest_cache/
+.env 
